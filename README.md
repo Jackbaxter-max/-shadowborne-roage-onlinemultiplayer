@@ -14,27 +14,40 @@ Close range teleportation. When souls are trapped, players can exchange them for
 
 4 classes - 1 player per class
 
-Tank: 
-pros -	Has big Attack + HP			
+Tank:
+
+pros -	Has big Attack + HP		
+
 Cons -	Enemies prefer to attack Tank									
+
 Rage -  Rage is regained when taking DMG
 	
 
 	
 
 Cleric: 					 				
+
 pros - High DMG and Healing						
+
 cons - Has next to no HP
+
 Soul - Soul is regained when killing enemies
 
 
 Mage: 										
+
 pros -	AOE DMG										
+
 cons -	Spells cost more Mana
+
 Mana -	Mana is regained when reading spellbook
 
- Archer - pros:				cons:						SP - Accuracy:
-	Long range attack		Slow attacks					Accuracy is regained over time when not attacking
-	+ Far vision
-	   
+
+Archer: 						
+
+pros -	Long range attack + Far vision						
+
+cons -	Slow attacks
+
+Accuracy -	Accuracy is regained over time when not attacking
 	
